@@ -2,7 +2,7 @@
 
 Hello Everyone. It is my 1st task of LetsUpgrade Web development Internship.
 
-The task is " You have to create a TODO LIST WebApp and that should be hosted on GitHub and should be working. "
+The task is "You have to create a TODO LIST WebApp and that should be hosted on GitHub and should be working."
 
 I have created this site using simple HTML, CSS and JavaScript.
 
