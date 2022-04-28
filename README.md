@@ -1,6 +1,6 @@
 # Tasker
 
-Hello Everyone. It is my 1st task of LetsUpgrade Web development Internship.
+Hello Everyone. It is my 1st task of LetsGrowMore Web development Internship.
 
 The task is "You have to create a TODO LIST WebApp and that should be hosted on GitHub and should be working."
 
